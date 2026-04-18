@@ -1,0 +1,162 @@
+{
+  "stops": [
+    {
+      "location_type": 0,
+      "parent_station": null,
+      "platform_code": "A",
+      "stop_id": "U6010Z1P",
+      "stop_lat": 50.102135,
+      "stop_lon": 14.582933,
+      "stop_name": "Sídliště Černý Most",
+      "wheelchair_boarding": 0,
+      "zone_id": "P",
+      "level_id": null,
+      "asw_id": {
+        "node": 6010,
+        "stop": 1
+      }
+    },
+    {
+      "location_type": 0,
+      "parent_station": null,
+      "platform_code": "B",
+      "stop_id": "U6010Z2P",
+      "stop_lat": 50.102215,
+      "stop_lon": 14.582698,
+      "stop_name": "Sídliště Černý Most",
+      "wheelchair_boarding": 0,
+      "zone_id": "P",
+      "level_id": null,
+      "asw_id": {
+        "node": 6010,
+        "stop": 2
+      }
+    }
+  ],
+  "departures": [
+    {
+      "arrival_timestamp": {
+        "predicted": null,
+        "scheduled": null
+      },
+      "delay": {
+        "is_available": true,
+        "minutes": 0,
+        "seconds": 19
+      },
+      "departure_timestamp": {
+        "predicted": "2026-04-18T18:48:19+02:00",
+        "scheduled": "2026-04-18T18:48:00+02:00",
+        "minutes": "9"
+      },
+      "last_stop": {
+        "id": null,
+        "name": null
+      },
+      "route": {
+        "short_name": "223",
+        "type": 3,
+        "is_night": false,
+        "is_regional": false,
+        "is_substitute_transport": false
+      },
+      "stop": {
+        "id": "U6010Z2P",
+        "platform_code": "B"
+      },
+      "trip": {
+        "direction": null,
+        "headsign": "Sídliště Horní Počernice",
+        "id": "223_1702_260101",
+        "is_at_stop": false,
+        "is_canceled": false,
+        "is_wheelchair_accessible": true,
+        "is_air_conditioned": true,
+        "short_name": null
+      }
+    },
+    {
+      "arrival_timestamp": {
+        "predicted": "2026-04-18T19:31:00+02:00",
+        "scheduled": "2026-04-18T19:31:00+02:00"
+      },
+      "delay": {
+        "is_available": false,
+        "minutes": null,
+        "seconds": null
+      },
+      "departure_timestamp": {
+        "predicted": "2026-04-18T19:31:00+02:00",
+        "scheduled": "2026-04-18T19:31:00+02:00",
+        "minutes": "52"
+      },
+      "last_stop": {
+        "id": null,
+        "name": null
+      },
+      "route": {
+        "short_name": "224",
+        "type": 3,
+        "is_night": false,
+        "is_regional": false,
+        "is_substitute_transport": false
+      },
+      "stop": {
+        "id": "U6010Z1P",
+        "platform_code": "A"
+      },
+      "trip": {
+        "direction": null,
+        "headsign": "Dolnopočernický hřbitov",
+        "id": "224_1644_260315",
+        "is_at_stop": false,
+        "is_canceled": false,
+        "is_wheelchair_accessible": true,
+        "is_air_conditioned": null,
+        "short_name": null
+      }
+    },
+    {
+      "arrival_timestamp": {
+        "predicted": "2026-04-18T19:31:00+02:00",
+        "scheduled": "2026-04-18T19:31:00+02:00"
+      },
+      "delay": {
+        "is_available": true,
+        "minutes": 0,
+        "seconds": 0
+      },
+      "departure_timestamp": {
+        "predicted": "2026-04-18T19:31:00+02:00",
+        "scheduled": "2026-04-18T19:31:00+02:00",
+        "minutes": "52"
+      },
+      "last_stop": {
+        "id": null,
+        "name": null
+      },
+      "route": {
+        "short_name": "224",
+        "type": 3,
+        "is_night": false,
+        "is_regional": false,
+        "is_substitute_transport": false
+      },
+      "stop": {
+        "id": "U6010Z2P",
+        "platform_code": "B"
+      },
+      "trip": {
+        "direction": null,
+        "headsign": "Ve Žlíbku",
+        "id": "224_1662_260315",
+        "is_at_stop": false,
+        "is_canceled": false,
+        "is_wheelchair_accessible": true,
+        "is_air_conditioned": true,
+        "short_name": null
+      }
+    }
+  ],
+  "infotexts": []
+}
