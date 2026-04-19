@@ -1,0 +1,321 @@
+{
+  "stops": [
+    {
+      "location_type": 0,
+      "parent_station": null,
+      "platform_code": "D",
+      "stop_id": "U337Z12P",
+      "stop_lat": 50.050255,
+      "stop_lon": 14.410865,
+      "stop_name": "Lihovar",
+      "wheelchair_boarding": 1,
+      "zone_id": "P",
+      "level_id": null,
+      "asw_id": {
+        "node": 337,
+        "stop": 12
+      }
+    }
+  ],
+  "departures": [
+    {
+      "arrival_timestamp": {
+        "predicted": "2026-04-19T08:59:15+02:00",
+        "scheduled": "2026-04-19T08:59:00+02:00"
+      },
+      "delay": {
+        "is_available": true,
+        "minutes": 0,
+        "seconds": 15
+      },
+      "departure_timestamp": {
+        "predicted": "2026-04-19T08:59:15+02:00",
+        "scheduled": "2026-04-19T08:59:00+02:00",
+        "minutes": "4"
+      },
+      "last_stop": {
+        "id": "U49Z5P",
+        "name": "Geologická"
+      },
+      "route": {
+        "short_name": "21",
+        "type": 0,
+        "is_night": false,
+        "is_regional": false,
+        "is_substitute_transport": false
+      },
+      "stop": {
+        "id": "U337Z12P",
+        "platform_code": "D"
+      },
+      "trip": {
+        "direction": "left",
+        "headsign": "Kubánské náměstí",
+        "id": "21_5342_260419",
+        "is_at_stop": false,
+        "is_canceled": false,
+        "is_wheelchair_accessible": true,
+        "is_air_conditioned": false,
+        "short_name": null
+      }
+    },
+    {
+      "arrival_timestamp": {
+        "predicted": "2026-04-19T09:03:53+02:00",
+        "scheduled": "2026-04-19T09:03:00+02:00"
+      },
+      "delay": {
+        "is_available": true,
+        "minutes": 0,
+        "seconds": 53
+      },
+      "departure_timestamp": {
+        "predicted": "2026-04-19T09:03:53+02:00",
+        "scheduled": "2026-04-19T09:03:00+02:00",
+        "minutes": "8"
+      },
+      "last_stop": {
+        "id": "U4Z2P",
+        "name": "Arbesovo náměstí"
+      },
+      "route": {
+        "short_name": "20",
+        "type": 0,
+        "is_night": false,
+        "is_regional": false,
+        "is_substitute_transport": false
+      },
+      "stop": {
+        "id": "U337Z12P",
+        "platform_code": "D"
+      },
+      "trip": {
+        "direction": "right",
+        "headsign": "Sídliště Modřany",
+        "id": "20_16227_260419",
+        "is_at_stop": false,
+        "is_canceled": false,
+        "is_wheelchair_accessible": true,
+        "is_air_conditioned": false,
+        "short_name": null
+      }
+    },
+    {
+      "arrival_timestamp": {
+        "predicted": "2026-04-19T09:04:00+02:00",
+        "scheduled": "2026-04-19T09:04:00+02:00"
+      },
+      "delay": {
+        "is_available": true,
+        "minutes": 0,
+        "seconds": 0
+      },
+      "departure_timestamp": {
+        "predicted": "2026-04-19T09:04:00+02:00",
+        "scheduled": "2026-04-19T09:04:00+02:00",
+        "minutes": "9"
+      },
+      "last_stop": {
+        "id": null,
+        "name": null
+      },
+      "route": {
+        "short_name": "196",
+        "type": 3,
+        "is_night": false,
+        "is_regional": false,
+        "is_substitute_transport": false
+      },
+      "stop": {
+        "id": "U337Z12P",
+        "platform_code": "D"
+      },
+      "trip": {
+        "direction": "right",
+        "headsign": "Kačerov",
+        "id": "196_1720_260419",
+        "is_at_stop": false,
+        "is_canceled": false,
+        "is_wheelchair_accessible": true,
+        "is_air_conditioned": true,
+        "short_name": null
+      }
+    },
+    {
+      "arrival_timestamp": {
+        "predicted": "2026-04-19T09:05:00+02:00",
+        "scheduled": "2026-04-19T09:05:00+02:00"
+      },
+      "delay": {
+        "is_available": true,
+        "minutes": 0,
+        "seconds": 0
+      },
+      "departure_timestamp": {
+        "predicted": "2026-04-19T09:05:00+02:00",
+        "scheduled": "2026-04-19T09:05:00+02:00",
+        "minutes": "10"
+      },
+      "last_stop": {
+        "id": null,
+        "name": null
+      },
+      "route": {
+        "short_name": "124",
+        "type": 3,
+        "is_night": false,
+        "is_regional": false,
+        "is_substitute_transport": false
+      },
+      "stop": {
+        "id": "U337Z12P",
+        "platform_code": "D"
+      },
+      "trip": {
+        "direction": "right",
+        "headsign": "Želivského",
+        "id": "124_3585_260419",
+        "is_at_stop": false,
+        "is_canceled": false,
+        "is_wheelchair_accessible": true,
+        "is_air_conditioned": true,
+        "short_name": null
+      }
+    },
+    {
+      "arrival_timestamp": {
+        "predicted": "2026-04-19T09:14:00+02:00",
+        "scheduled": "2026-04-19T09:14:00+02:00"
+      },
+      "delay": {
+        "is_available": true,
+        "minutes": 0,
+        "seconds": 0
+      },
+      "departure_timestamp": {
+        "predicted": "2026-04-19T09:14:00+02:00",
+        "scheduled": "2026-04-19T09:14:00+02:00",
+        "minutes": "19"
+      },
+      "last_stop": {
+        "id": null,
+        "name": null
+      },
+      "route": {
+        "short_name": "197",
+        "type": 3,
+        "is_night": false,
+        "is_regional": false,
+        "is_substitute_transport": false
+      },
+      "stop": {
+        "id": "U337Z12P",
+        "platform_code": "D"
+      },
+      "trip": {
+        "direction": "right",
+        "headsign": "Sídliště Písnice",
+        "id": "197_2838_260419",
+        "is_at_stop": false,
+        "is_canceled": false,
+        "is_wheelchair_accessible": true,
+        "is_air_conditioned": true,
+        "short_name": null
+      }
+    },
+    {
+      "arrival_timestamp": {
+        "predicted": "2026-04-19T09:15:00+02:00",
+        "scheduled": "2026-04-19T09:15:00+02:00"
+      },
+      "delay": {
+        "is_available": false,
+        "minutes": null,
+        "seconds": null
+      },
+      "departure_timestamp": {
+        "predicted": "2026-04-19T09:15:00+02:00",
+        "scheduled": "2026-04-19T09:15:00+02:00",
+        "minutes": "20"
+      },
+      "last_stop": {
+        "id": null,
+        "name": null
+      },
+      "route": {
+        "short_name": "118",
+        "type": 3,
+        "is_night": false,
+        "is_regional": false,
+        "is_substitute_transport": false
+      },
+      "stop": {
+        "id": "U337Z12P",
+        "platform_code": "D"
+      },
+      "trip": {
+        "direction": "right",
+        "headsign": "Sídliště Spořilov",
+        "id": "118_2233_260419",
+        "is_at_stop": false,
+        "is_canceled": false,
+        "is_wheelchair_accessible": true,
+        "is_air_conditioned": null,
+        "short_name": null
+      }
+    },
+    {
+      "arrival_timestamp": {
+        "predicted": "2026-04-19T09:33:00+02:00",
+        "scheduled": "2026-04-19T09:33:00+02:00"
+      },
+      "delay": {
+        "is_available": true,
+        "minutes": 0,
+        "seconds": 0
+      },
+      "departure_timestamp": {
+        "predicted": "2026-04-19T09:33:00+02:00",
+        "scheduled": "2026-04-19T09:33:00+02:00",
+        "minutes": "38"
+      },
+      "last_stop": {
+        "id": null,
+        "name": null
+      },
+      "route": {
+        "short_name": "197",
+        "type": 3,
+        "is_night": false,
+        "is_regional": false,
+        "is_substitute_transport": false
+      },
+      "stop": {
+        "id": "U337Z12P",
+        "platform_code": "D"
+      },
+      "trip": {
+        "direction": "right",
+        "headsign": "Roztyly",
+        "id": "197_2713_260418",
+        "is_at_stop": false,
+        "is_canceled": false,
+        "is_wheelchair_accessible": true,
+        "is_air_conditioned": false,
+        "short_name": null
+      }
+    }
+  ],
+  "infotexts": [
+    {
+      "display_type": "inline",
+      "text": "Vítejte na Dvoreckém mostě!",
+      "text_en": "Welcome to Dvorecký bridge!",
+      "related_stops": [
+        "U337Z12P"
+      ],
+      "valid_from": "2026-04-18T04:20:00+02:00",
+      "valid_to": "2026-04-20T23:59:00+02:00"
+    }
+  ]
+}
